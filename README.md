@@ -1,4 +1,4 @@
-# Api Template
+# Insta-Scammer
 A simple and beginner friendly api template built in nodejs and expressjs. Rate limite system included
 
 # Installation
