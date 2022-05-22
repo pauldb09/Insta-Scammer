@@ -1,0 +1,28 @@
+{
+  "name": "api-template",
+  "version": "1.0.0",
+  "description": "A verry simple and beginner friendly api written in expressjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauldb09/Api-Template.git"
+  },
+  "keywords": [
+    "api",
+    "template",
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "Pauldb09",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pauldb09/Api-Template/issues"
+  },
+  "homepage": "https://github.com/pauldb09/Api-Template#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
